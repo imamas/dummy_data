@@ -2,7 +2,17 @@
     {
         "id": 1,
         "title": "Treasury",
-        "thumbnail": "https://"
+        "thumbnail": "https://imamas.github.io/dummy_data/treasury.png"
+    },
+    {
+        "id": 1,
+        "title": "Syariah",
+        "thumbnail": "https://imamas.github.io/dummy_data/syariah.png"
+    },
+    {
+        "id": 1,
+        "title": "Sustainability Finance",
+        "thumbnail": "https://imamas.github.io/dummy_data/syariah.png"
     }
     
 ]
