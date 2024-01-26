@@ -2,17 +2,51 @@
     {
         "id": 1,
         "title": "Treasury",
-        "thumbnail": "https://imamas.github.io/dummy_data/treasury.png"
+        "thumbnail": "https://imamas.github.io/dummy_data/images/treasury.png"
     },
     {
         "id": 1,
         "title": "Syariah",
-        "thumbnail": "https://imamas.github.io/dummy_data/syariah.png"
+        "thumbnail": "https://imamas.github.io/dummy_data/images/syariah.png"
     },
     {
         "id": 1,
         "title": "Sustainability Finance",
-        "thumbnail": "https://imamas.github.io/dummy_data/syariah.png"
-    }
-    
+        "thumbnail": "https://imamas.github.io/dummy_data/images/sustainability_finance.png"
+    },
+    {
+        "id": 1,
+        "title": "SPPUR",
+        "thumbnail": "https://imamas.github.io/dummy_data/images/sppur.png"
+    },
+    {
+        "id": 1,
+        "title": "Service",
+        "thumbnail": "https://imamas.github.io/dummy_data/images/service.png"
+    },
+    {
+        "id": 1,
+        "title": "Sales",
+        "thumbnail": "https://imamas.github.io/dummy_data/images/sales.png"
+    },
+    {
+        "id": 1,
+        "title": "Risk, Corporate Assurance, Compliance",
+        "thumbnail": "https://imamas.github.io/dummy_data/images/risk_a_corporate.png"
+    },
+    {
+        "id": 1,
+        "title": "Management Leadership & PD",
+        "thumbnail": "https://imamas.github.io/dummy_data/images/management_leadership.png"
+    },
+    {
+        "id": 1,
+        "title": "Digital Transformation",
+        "thumbnail": "https://imamas.github.io/dummy_data/images/digital_transformation.png"
+    },
+    {
+        "id": 1,
+        "title": "Culture",
+        "thumbnail": "https://imamas.github.io/dummy_data/images/culture.png"
+    }   
 ]
